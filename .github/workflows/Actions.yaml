@@ -1,0 +1,2 @@
+- name: requirements2png
+  uses: robertdebock/graphviz-action@1.0.7
